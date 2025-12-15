@@ -21,7 +21,7 @@ Este portfólio foi customizado para refletir minha identidade profissional ("Ma
 - **Jornada:** Linha do tempo da minha experiência financeira e formação acadêmica.
 - **Contato:** Canais para networking profissional.
 
-🔗 **Acesse o site online:(https://macedolab.github.io/Portfolio/)
+🔗 **Acesse o site online: https://macedolab.github.io/Portfolio/
 
 ---
 
